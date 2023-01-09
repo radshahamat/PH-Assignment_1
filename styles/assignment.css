@@ -1,0 +1,363 @@
+.header{
+    background-image: url("images/banner/banner3.png");
+    background-repeat: no-repeat;
+    position: center;
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    /* size: 100%; */
+
+}
+.header-text{
+    position: absolute;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 65px;
+    text-align: right;
+    color: #FFFFFF;
+    margin: 170px 200px 100px 1600px; 
+ 
+}
+
+.header-paragraph{
+    position: absolute;
+    /* width: 494px;
+    height: 78px; */
+    font-family: 'Work Sans';
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: right;
+    color: #FFFFFF;
+    margin: -50px 10px 200px 100px;
+}
+
+.btn-primary{
+     margin: 60px -140px; 
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    color: #005FAC;
+    font-family: 'Work Sans';
+    font-size: 20px;
+    margin: 50px 0px 50px -170px;
+}
+
+.main-class{
+    display: flex;
+    /* align-items: center; */
+    /* margin: 0 175px; */
+
+} 
+
+.main-class img{
+    position: absolute;
+    width: 569px;
+    height: 723.3px;
+    left: 600px;
+    top: 1200px;
+    
+}
+
+.main-class .main-title{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+width: 288px;
+height: 94px;
+margin: 300px 1500px 700px;
+}
+
+.failure-paragraph{
+position: absolute;
+width: 416px;
+height: 104px;
+left: 1510px;
+top: 1500px;
+
+font-family: 'Work Sans';
+/* font-style: normal; */
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+
+color: #444343;
+}
+
+.pre-class{
+    position: absolute;
+/* width: 417px;
+height: 240.92px; */
+left: 1410px;
+top: 1580px;
+}
+
+
+.plan-title{
+ position: absolute; 
+/* width: 179px;
+height: 47px; */
+left: 1100px;
+top: 2000px;
+font-family: 'Work Sans';
+/* font-weight: 700; */
+font-size: 40px;
+/* line-height: 47px; */
+
+/* text-align: center; */
+
+color: #151414;
+}
+
+/* My plan */
+ .plan{
+  background: #FFFFFF;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 20px 50px 100px 100px;
+  /* text-align: center;  */
+  /* display: flex; */
+    /* gap: 5px;  */
+    /* justify-content: space-around; */
+  
+  
+  
+} 
+
+.plans-container{
+    display: flex; 
+    margin: 5px 50px 50px 100px;
+    align-items: center;
+    justify-content: center;
+     
+    font-weight: 700;
+    font-size: 30px;
+    
+}
+.plan-description{
+    /* display: flex; */
+    font-size: 20px;
+    color: #757575;
+    
+    /* gap: 2px; */
+    
+}
+
+.linear{
+     position: absolute;
+width: 1140px;
+height: 300px;
+left: 620px;
+top: 2500px; 
+/* text-align: center; */
+/* background-image: linear-gradient(45deg,#eb01a5, #d13531), url("./images/watch.png"); */
+background-image: linear-gradient(45deg,
+              rgba(119, 29, 209, 0.75),
+              rgba(8,83,156, 0.75)), url(
+'./images/watch.png');
+            /* width: 100%;
+            height: 280px;
+            text-align: center;
+              color: #fff; */
+              background-repeat: no-repeat;
+
+}
+.linear p{
+    /* text-align: center;
+    color: #FFFFFF; */
+    position: absolute;
+width: 459px;
+height: 94px;
+/* left: 294px;
+top: 2280.96px; */
+
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+/* line-height: 47px; */
+margin-left: 100px;
+margin-top: 100px;
+
+color: #FFFFFF;
+
+
+}
+.linear .btn-call{
+    
+font-family: 'Open Sans', sans-serif;
+/* font-style: normal; */
+font-weight: 700;
+font-size: 20px;
+margin-left: 5px;
+margin-top: 100px;
+size: 100px;
+}
+.footer{
+    background-color: #151414;
+    /* position: absolute; */
+ /* width: 1600px;  */
+ height: 800px; 
+/* left: 620px;
+top: 6000px; */
+
+    background-repeat: no-repeat;
+    position: center;
+    width: 100%; 
+    height: 80vh; 
+    background-size: cover;
+      margin-top: 350px;   
+     /* display: flex;  */
+     /* margin-bottom: auto;  */
+     
+}
+/* 
+.footer-head{
+    font-size: 50px;
+    color: #FFFFFF;
+    margin-left: 230px;
+    width: 148px;
+height: 53px;
+margin-top: 400px;
+
+} */
+.footer h3{
+    font-size: 50px;
+    color: #FFFFFF;
+    margin-left: 230px;
+    width: 148px;
+    height: 53px;
+    margin-top: 130px;
+    margin-bottom: 500px;
+    padding: 100px;
+
+}
+.footer-paragraph{
+    
+    /* color: #FFFFFF;
+    position: absolute;
+width: 485px;
+height: 78px;
+left: 230px;
+/* top: 2850.96px; */
+
+font-family: 'Work Sans';
+
+/* font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px; */ 
+
+font-size: 25px;
+color: white;
+margin-left: 230px;
+width: 500px;
+height: 100px;
+ margin-top: -680px;
+margin-bottom: 500px; 
+padding: 100px 50px 100px 100px;
+
+
+
+
+
+}
+
+.footer pre{
+    font-size: 25px;
+color: white;
+margin-left: 10px;
+width: 500px;
+height: 100px;
+ margin-top: -680px;
+margin-bottom: 500px; 
+padding: 100px 50px 100px 100px;
+
+}
+
+.footer-image{
+    
+    gap: 20px;
+    display: flex;
+    margin-left: 10px;
+    /* width: 500px;
+    height: 100px; */
+     margin-top: -680px;
+    margin-bottom: 500px; 
+    padding: 100px 500px 300px 320px;
+
+}
+/* .subscribe{
+    
+    color: black;
+    font-size: 30px;
+    margin-top: 500px;
+    margin-bottom: 200px;
+    padding: 100px 500px 300px 500px;
+} */
+
+
+
+.footer-left{
+    font-family: 'Work Sans';
+
+
+}
+/* .footer-right {
+    color: #a11616;
+    /* padding: -1000px 100px 500px 30px; */
+    /* margin-top: auto;
+    margin-left: 100px;
+    margin-bottom: 50px;
+    margin-right: 100px; */
+
+/* }  */
+.footer .footer-right .text-box{
+    margin-top: -50px;
+    margin-left: 330px;
+    margin-bottom: 1000px;
+    margin-right: 100px;
+    width: 325px;
+    height: 200px;
+    color: #FFFFFF;
+    /* border: 2px solid; */
+    /* font-size: 20px; */
+    size: 50;
+   
+
+
+}
+.footer-right h3{
+    color: white;
+    margin-bottom: 0px;
+    margin-top: -850px;
+    
+    
+}
+.submit{
+    margin-top: 15px;
+    width: 150.11px;
+    height: 50px;
+    font-size: 15px;
+}
+.footer-right{
+    margin-left: 1200px;
+    margin-top: -1250px ;
+    gap: 10px;
+    border: 70px;
+    border-width: auto;
+    
+    
+    
+    
+}
+.email{
+    /* border: 20px; */
+    border-style: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 0.75in;
+    
+}
